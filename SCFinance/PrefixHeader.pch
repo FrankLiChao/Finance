@@ -1,0 +1,27 @@
+//
+//  PrefixHeader.pch
+//  SCFinance
+//
+//  Created by bosheng on 16/5/16.
+//  Copyright © 2016年 liuhuan. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+#ifdef __OBJC__
+
+#import "UIColor+lhColor.h"
+#import "Defines.h"
+#import "lhUtilObject.h"
+#import "lhMainRequest.h"
+#import "lhHubLoading.h"
+#import "lhTabBar.h"
+#import "lhNavigationBar.h"
+#import "lhUserModel.h"
+
+#endif

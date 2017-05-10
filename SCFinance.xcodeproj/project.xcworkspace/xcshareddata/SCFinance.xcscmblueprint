@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d091ca81-5b3a-dc41-b0d5-e604a28ffc50++4435",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d091ca81-5b3a-dc41-b0d5-e604a28ffc50++4435" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d091ca81-5b3a-dc41-b0d5-e604a28ffc50++4435" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FA03BE5-562F-4F4C-8259-0E7224DEE98E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d091ca81-5b3a-dc41-b0d5-e604a28ffc50++4435" : "SCFinance1.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SCFinance",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SCFinance.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/182.92.204.180:8443\/svn\/ChainIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d091ca81-5b3a-dc41-b0d5-e604a28ffc50++4435"
+    }
+  ]
+}
